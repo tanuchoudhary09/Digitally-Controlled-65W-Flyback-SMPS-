@@ -8,8 +8,8 @@ A high-efficiency, digitally-controlled 65W isolated Flyback Switched-Mode Power
 
 To review the electrical engineering layout and manufacturing assets without requiring native ECAD software, access the core design documentation directly below:
 
-* **[Complete Circuit Diagram (Vector PDF)](./schematic.pdf)** – High-resolution vector schematic for comprehensive circuit tracking and primary/secondary insulation clearance inspection.
-*  **[Bill of Materials (BOM PDF)](./BOM.pdf)** – Full component procurement document including exact manufacturer part numbers, tolerances, and package footprints.
+* **[Complete Circuit Diagram (Vector PDF)](.hardware/schematic.pdf)** – High-resolution vector schematic for comprehensive circuit tracking and primary/secondary insulation clearance inspection.
+*  **[Bill of Materials (BOM PDF)](.hardware/BOM.pdf)** – Full component procurement document including exact manufacturer part numbers, tolerances, and package footprints.
 
 ---
 
