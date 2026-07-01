@@ -54,6 +54,12 @@ Resolved strict compliance warnings associated with the USB PD 3.0 PPS protocol.
 ### 3. Fault Protection & Thermal Safeguards
 Designed robust hardware-to-software fault loops. The system monitors Over-Voltage Protection (OVP), Over-Current Protection (OCP), and Over-Temperature Protection (OTP) on a cycle-by-cycle basis. If anomalies are flagged, the supervisory loop triggers an immediate emergency shutdown, preventing thermal device burnout and protecting both the SMPS and target client hardware.
 
+## 📦 Downloads & Hardware Assets
+
+The complete hardware assets and environment builds are packaged into stable binaries available in the project releases:
+
+* **[Download KiCad Hardware Schematics ZIP](https://github.com/tanuchoudhary09/Digitally-Controlled-65W-Flyback-SMPS-/releases/download/v1.0.0/SCHEMATIC.zip)**
+  
 ## Author
 
 Tanu Choudhary
