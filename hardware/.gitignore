@@ -1,0 +1,8 @@
+# Ignore temporary simulation files
+*.log
+*.raw
+*.op.txt
+
+# Ignore CAD manufacturing output junk
+*.bak
+*.preview
